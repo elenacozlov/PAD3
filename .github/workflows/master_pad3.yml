@@ -54,4 +54,4 @@ jobs:
           app-name: 'PAD3'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D84BC4A1980942AF8F8ABC146DA44A51 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_043520E4526941FF953151AD34CDD373 }}
